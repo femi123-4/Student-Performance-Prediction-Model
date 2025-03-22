@@ -59,7 +59,3 @@ This project uses machine learning to predict student academic performance based
 
 - This model is for educational purposes only and may not provide accurate predictions in real-world scenarios.
 - The model was trained on a dataset of 10,000+ students and achieved an **R-squared value of 0.94**.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
